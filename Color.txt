@@ -1,5 +1,5 @@
-1. Red1
-2. Blue2
-3. Yellow3
-4. Magenta4
-5. Beige
+21. Real-red
+2. Real-blue
+3. Real-yellow
+4. magenta
+5. beige
